@@ -1,7 +1,6 @@
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dip_biswas&label=Profile%20views&color=0e75b6&style=flat" alt="Dip Biswas" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Dip+Biswas!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Dip+Biswas!" alt="Typing SVG" />
     
 </h1>
 
