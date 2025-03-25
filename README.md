@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Dip+Biswas!" />
-    
+    <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Dip+Biswas!" />
+    </div>
 </h1>
 
 <h3 align="center">A passionate Software Developer from IIIT Bhagalpur</h3>
